@@ -1,0 +1,379 @@
+Protel Design System Design Rule Check
+PCB File : D:\Ýndirilen\TaLaT\EKMEK KAPISI\ALTÝUM\Projeler\Udemy_Talat_Kepezkaya\Udemy_Talat.PcbDoc
+Date     : 12.08.2021
+Time     : 21:22:55
+
+Processing Rule : Clearance Constraint (Gap=0.229mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net 3V3DC_S Between Pad C41-2(80.574mm,12.153mm) on Bottom Layer And Track (82.7mm,12.9mm)(83.2mm,13.4mm) on Bottom Layer 
+   Violation between Isolated copper: Split Plane  (GND) on GROUND. Dead copper detected. Copper area is : 0.146 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GROUND. Dead copper detected. Copper area is : 0.146 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GROUND. Dead copper detected. Copper area is : 0.146 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GROUND. Dead copper detected. Copper area is : 0.146 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GROUND. Dead copper detected. Copper area is : 0.146 sq. mm
+Rule Violations :6
+
+Processing Rule : Un-Connected Pin Constraint ( (All) )
+   Violation between Un-Connected Pin Constraint: Pad SW1-(20.55mm,1.2mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad SW1-(20.55mm,3.2mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad SW1-(27.85mm,1.2mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad SW1-(27.85mm,3.2mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad SW1-3(26.45mm,3.95mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U1-2(29.35mm,35.665mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U1-3(29.35mm,36.935mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U1-5(23.85mm,38.205mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U4-7(50.05mm,27.735mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U5-1(49.25mm,44.15mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U5-10(49.25mm,39.65mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U5-11(49.25mm,39.15mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U5-16(52.25mm,37.15mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U5-2(49.25mm,43.65mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U5-25(57.75mm,38.65mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U5-26(57.75mm,39.15mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U5-28(57.75mm,40.15mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U5-29(57.75mm,40.65mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U5-3(49.25mm,43.15mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U5-30(57.75mm,41.15mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U5-31(57.75mm,41.65mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U5-39(55.25mm,45.65mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U5-4(49.25mm,42.65mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U5-45(52.25mm,45.65mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U6-10(19.965mm,8.618mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U6-11(21.235mm,8.618mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U6-12(22.505mm,8.618mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U6-13(23.775mm,8.618mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U6-14(25.045mm,8.618mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U6-16(26.045mm,12.673mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U6-17(26.045mm,13.943mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U6-18(26.045mm,15.213mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U6-19(26.045mm,16.483mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U6-20(26.045mm,17.753mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U6-21(26.045mm,19.023mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U6-22(26.045mm,20.293mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U6-23(26.045mm,21.563mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U6-24(26.045mm,22.833mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U6-25(25.045mm,25.618mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U6-26(23.775mm,25.618mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U6-27(22.505mm,25.618mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U6-28(21.235mm,25.618mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U6-29(19.965mm,25.618mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U6-30(18.695mm,25.618mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U6-31(17.425mm,25.618mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U6-32(16.155mm,25.618mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U6-33(14.885mm,25.618mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U6-36(11.075mm,25.618mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U6-37(9.805mm,25.618mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U6-4(12.345mm,8.618mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U6-5(13.615mm,8.618mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U6-6(14.885mm,8.618mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U6-7(16.155mm,8.618mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U6-8(17.425mm,8.618mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U6-9(18.695mm,8.618mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U7-6(62.45mm,25.565mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U7-7(62.45mm,26.835mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad U8-11(81.214mm,18.702mm) on Bottom Layer 
+   Violation between Un-Connected Pin Constraint: Pad USB1-(51.6mm,2.05mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad USB1-(52.3mm,4.778mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad USB1-(58.5mm,4.778mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad USB1-(59.2mm,2.05mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad USB1-4(54.75mm,4.9mm) on Top Layer 
+Rule Violations :63
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.203mm) (Max=1.778mm) (Preferred=0.279mm) (All)
+Rule Violations :0
+
+Processing Rule : SMD To Corner (Distance=0.254mm) (All)
+   Violation between SMD To Corner Constraint: (0.031mm < 0.254mm) Between Pad C34-1(82.9mm,24.1mm) on Bottom Layer And Track (82.9mm,24.1mm)(83.414mm,24.1mm) on Bottom Layer Actual Distance = 0.031mm
+   Violation between SMD To Corner Constraint: (0.152mm < 0.254mm) Between Pad C35-1(83.05mm,25.7mm) on Bottom Layer And Track (83.05mm,24.898mm)(83.05mm,25.7mm) on Bottom Layer Actual Distance = 0.152mm
+   Violation between SMD To Corner Constraint: (0.031mm < 0.254mm) Between Pad C44-1(91mm,15mm) on Bottom Layer And Track (91mm,14.911mm)(91.415mm,14.496mm) on Bottom Layer Actual Distance = 0.031mm
+   Violation between SMD To Corner Constraint: (0.066mm < 0.254mm) Between Pad C46-1(78.65mm,4.2mm) on Bottom Layer And Track (78.65mm,4.2mm)(78.65mm,4.916mm) on Bottom Layer Actual Distance = 0.066mm
+   Violation between SMD To Corner Constraint: (0.192mm < 0.254mm) Between Pad J4-2(62.9mm,90.8mm) on Multi-Layer And Track (61.88mm,89.449mm)(62.9mm,90.469mm) on Bottom Layer Actual Distance = 0.192mm
+   Violation between SMD To Corner Constraint: (0.033mm < 0.254mm) Between Pad J8-3(75.821mm,9.347mm) on Multi-Layer And Track (76.064mm,9.591mm)(76.662mm,9.591mm) on Top Layer Actual Distance = 0.033mm
+   Violation between SMD To Corner Constraint: (0.031mm < 0.254mm) Between Pad J8-4(75.821mm,7.847mm) on Multi-Layer And Track (75.996mm,7.672mm)(76.678mm,7.672mm) on Bottom Layer Actual Distance = 0.031mm
+   Violation between SMD To Corner Constraint: (0.207mm < 0.254mm) Between Pad Q2-2(55.645mm,65.05mm) on Top Layer And Track (55.645mm,65.05mm)(56.402mm,65.05mm) on Top Layer Actual Distance = 0.207mm
+   Violation between SMD To Corner Constraint: (0.227mm < 0.254mm) Between Pad Q4-1(13.89mm,31.65mm) on Top Layer And Track (14.036mm,31.796mm)(14.667mm,31.796mm) on Top Layer Actual Distance = 0.227mm
+   Violation between SMD To Corner Constraint: (0.135mm < 0.254mm) Between Pad R17-1(50.5mm,33.5mm) on Top Layer And Track (50.5mm,32.882mm)(50.5mm,33.5mm) on Top Layer Actual Distance = 0.135mm
+   Violation between SMD To Corner Constraint: (0.118mm < 0.254mm) Between Pad R18-2(16.2mm,4.7mm) on Top Layer And Track (15.599mm,4.7mm)(16.2mm,4.7mm) on Top Layer Actual Distance = 0.118mm
+   Violation between SMD To Corner Constraint: (0.202mm < 0.254mm) Between Pad R2-1(61.6mm,61.8mm) on Top Layer And Track (61.6mm,61.204mm)(61.6mm,61.8mm) on Top Layer Actual Distance = 0.202mm
+   Violation between SMD To Corner Constraint: (0.031mm < 0.254mm) Between Pad R23-2(88.5mm,22.8mm) on Bottom Layer And Track (88.085mm,22.296mm)(88.5mm,22.711mm) on Bottom Layer Actual Distance = 0.031mm
+   Violation between SMD To Corner Constraint: (0.052mm < 0.254mm) Between Pad R26-1(77.8mm,15mm) on Bottom Layer And Track (77.8mm,15mm)(77.8mm,15.446mm) on Bottom Layer Actual Distance = 0.052mm
+   Violation between SMD To Corner Constraint: (0.164mm < 0.254mm) Between Pad R28-2(79.5mm,19.5mm) on Bottom Layer And Track (79.5mm,19.5mm)(80.147mm,19.5mm) on Bottom Layer Actual Distance = 0.164mm
+   Violation between SMD To Corner Constraint: (0.031mm < 0.254mm) Between Pad R29-2(79.5mm,18.2mm) on Bottom Layer And Track (79.589mm,18.2mm)(80.004mm,17.785mm) on Bottom Layer Actual Distance = 0.031mm
+   Violation between SMD To Corner Constraint: (0.187mm < 0.254mm) Between Pad R35-2(81.737mm,7.491mm) on Bottom Layer And Track (81.157mm,7.491mm)(81.737mm,7.491mm) on Bottom Layer Actual Distance = 0.187mm
+   Violation between SMD To Corner Constraint: (0.045mm < 0.254mm) Between Pad R8-2(63.4mm,41.7mm) on Top Layer And Track (63.835mm,41.907mm)(63.915mm,41.986mm) on Top Layer Actual Distance = 0.045mm
+   Violation between SMD To Corner Constraint: (0.045mm < 0.254mm) Between Pad R9-2(63.4mm,42.9mm) on Top Layer And Track (63.836mm,42.693mm)(63.915mm,42.614mm) on Top Layer Actual Distance = 0.045mm
+   Violation between SMD To Corner Constraint: (0.112mm < 0.254mm) Between Pad U5-14(51.25mm,37.15mm) on Top Layer And Track (51.25mm,36.438mm)(51.25mm,37.15mm) on Top Layer Actual Distance = 0.112mm
+   Violation between SMD To Corner Constraint: (0.105mm < 0.254mm) Between Pad U5-24(56.25mm,37.15mm) on Top Layer And Track (56.25mm,36.7mm)(56.474mm,36.476mm) on Top Layer Actual Distance = 0.105mm
+   Violation between SMD To Corner Constraint: (0.202mm < 0.254mm) Between Pad U5-34(57.75mm,43.15mm) on Top Layer And Track (56.948mm,43.15mm)(57.75mm,43.15mm) on Top Layer Actual Distance = 0.202mm
+   Violation between SMD To Corner Constraint: (0.152mm < 0.254mm) Between Pad U5-35(57.75mm,43.65mm) on Top Layer And Track (57.75mm,43.65mm)(58.502mm,43.65mm) on Top Layer Actual Distance = 0.152mm
+   Violation between SMD To Corner Constraint: (0.199mm < 0.254mm) Between Pad U5-37(56.25mm,45.65mm) on Top Layer And Track (56.25mm,45.65mm)(56.25mm,46.448mm) on Top Layer Actual Distance = 0.199mm
+   Violation between SMD To Corner Constraint: (0.104mm < 0.254mm) Between Pad U5-9(49.25mm,40.15mm) on Top Layer And Track (48.546mm,40.127mm)(49.227mm,40.127mm) on Top Layer Actual Distance = 0.104mm
+   Violation between SMD To Corner Constraint: (0.088mm < 0.254mm) Between Pad U8-10(81.214mm,17.432mm) on Bottom Layer And Track (80.561mm,17.785mm)(80.914mm,17.432mm) on Bottom Layer Actual Distance = 0.088mm
+   Violation between SMD To Corner Constraint: (0.031mm < 0.254mm) Between Pad U8-12(81.214mm,19.972mm) on Bottom Layer And Track (80.593mm,19.972mm)(81.214mm,19.972mm) on Bottom Layer Actual Distance = 0.031mm
+   Violation between SMD To Corner Constraint: (0.034mm < 0.254mm) Between Pad U8-13(81.214mm,21.242mm) on Bottom Layer And Track (80.59mm,21.242mm)(81.214mm,21.242mm) on Bottom Layer Actual Distance = 0.034mm
+   Violation between SMD To Corner Constraint: (0.152mm < 0.254mm) Between Pad U9-1(83.2mm,2.65mm) on Bottom Layer And Track (82.498mm,2.65mm)(83.2mm,2.65mm) on Bottom Layer Actual Distance = 0.152mm
+   Violation between SMD To Corner Constraint: (0.162mm < 0.254mm) Between Pad U9-1(83.2mm,2.65mm) on Bottom Layer And Track (83.2mm,2.65mm)(83.912mm,2.65mm) on Bottom Layer Actual Distance = 0.162mm
+   Violation between SMD To Corner Constraint: (0.202mm < 0.254mm) Between Pad U9-3(83.2mm,4.55mm) on Bottom Layer And Track (83.2mm,4.55mm)(83.2mm,5.052mm) on Bottom Layer Actual Distance = 0.202mm
+   Violation between SMD To Corner Constraint: (0.071mm < 0.254mm) Between Pad U9-4(85.8mm,4.55mm) on Bottom Layer And Track (85.44mm,4.179mm)(85.44mm,4.441mm) on Bottom Layer Actual Distance = 0.071mm
+Rule Violations :32
+
+Processing Rule : SMD To Plane Constraint (Distance=0.254mm) (All)
+   Violation between SMD To Plane Constraint: Pad BR1-4(25.6mm,49.695mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad C10-1(67.2mm,10.65mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad C10-2(67.2mm,12.55mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad C11-1(29.3mm,45.05mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad C12-1(31.3mm,44.8mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad C13-1(40.1mm,41.65mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad C14-1(36.1mm,38.5mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad C14-2(38mm,38.5mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad C15-1(42.5mm,45.9mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad C16-1(40.3mm,38.8mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad C17-1(43.05mm,37mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad C19-1(50.3mm,31.65mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad C19-2(50.3mm,29.75mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad C20-1(48.6mm,31.65mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad C20-2(48.6mm,29.75mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad C21-1(8.15mm,6.4mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad C21-2(10.05mm,6.4mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad C22-1(8.15mm,4.6mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad C22-2(10.05mm,4.6mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad C23-1(8.15mm,2.7mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad C23-2(10.05mm,2.7mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad C24-1(45.7mm,49.45mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad C24-2(45.7mm,51.35mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad C25-1(47.883mm,49.374mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad C25-2(47.883mm,51.274mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad C26-1(48.55mm,47.3mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad C26-2(50.45mm,47.3mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad C27-1(61.15mm,44.2mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Between Pad C27-2(59.25mm,44.2mm) on Top Layer And Via (59.25mm,46.1mm) from Top Layer to Bottom Layer Actual Distance = 1.9mm
+   Violation between SMD To Plane Constraint: Pad C28-1(61.35mm,37mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Between Pad C28-2(59.45mm,37mm) on Top Layer And Via (59.45mm,38.2mm) from Top Layer to Bottom Layer Actual Distance = 1.2mm
+   Violation between SMD To Plane Constraint: Pad C29-1(46.5mm,36.45mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Between Pad C29-2(46.5mm,38.35mm) on Top Layer And Via (47.7mm,38.35mm) from Top Layer to Bottom Layer Actual Distance = 1.2mm
+   Violation between SMD To Plane Constraint: Pad C30-1(12.1mm,37.65mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad C3-1(19.6mm,37.95mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad C31-1(66.5mm,26.25mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Between Pad C31-2(66.5mm,28.15mm) on Top Layer And Via (68.4mm,27mm) from Top Layer to Bottom Layer Actual Distance = 2.42mm
+   Violation between SMD To Plane Constraint: Pad C3-2(19.6mm,36.05mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad C32-1(64.5mm,26.2mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad C32-2(64.5mm,28.1mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad C4-1(21.4mm,37.9mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad C4-2(21.4mm,36mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad C5-1(63.1mm,7.25mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad C6-2(20.5mm,44.1mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad C8-1(62.9mm,10.65mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad C8-2(62.9mm,12.55mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad C9-1(65mm,10.65mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad C9-2(65mm,12.55mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad D1-1(67.6mm,65mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad D2-1(48.9mm,65mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad D4-A(18.515mm,29.8mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad D5-2(38mm,36.5mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad D8-1(19mm,50mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad J5-2(34.05mm,7.2mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad J6-2(7.2mm,54.45mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Between Pad J7-1(61.2mm,49.26mm) on Top Layer And Via (66.04mm,49.26mm) from Top Layer to Bottom Layer Actual Distance = 4.84mm
+   Violation between SMD To Plane Constraint: Between Pad J7-5(61.2mm,59.42mm) on Top Layer And Via (58.9mm,58.4mm) from Top Layer to Bottom Layer Actual Distance = 2.272mm
+   Violation between SMD To Plane Constraint: Between Pad Q1-2(61.6mm,63.3mm) on Top Layer And Via (63.4mm,62.8mm) from Top Layer to Bottom Layer Actual Distance = 2.007mm
+   Violation between SMD To Plane Constraint: Pad Q2-2(55.645mm,65.05mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Between Pad Q3-2(14.745mm,6.55mm) on Top Layer And Via (16.75mm,6.55mm) from Top Layer to Bottom Layer Actual Distance = 2.005mm
+   Violation between SMD To Plane Constraint: Pad Q4-2(13.89mm,33.55mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad R11-1(43.4mm,35mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad R12-1(52.8mm,51.3mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Between Pad R14-2(54mm,23.5mm) on Top Layer And Via (55.2mm,23.5mm) from Top Layer to Bottom Layer Actual Distance = 1.2mm
+   Violation between SMD To Plane Constraint: Pad R16-1(11.3mm,4.9mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad R4-1(59.9mm,65.1mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Between Pad R5-1(57.2mm,64.9mm) on Top Layer And Via (58.2mm,66.5mm) from Top Layer to Bottom Layer Actual Distance = 1.925mm
+   Violation between SMD To Plane Constraint: Between Pad R6-1(19.1mm,2.7mm) on Top Layer And Via (11.2mm,2.2mm) from Top Layer to Bottom Layer Actual Distance = 6.9mm
+   Violation between SMD To Plane Constraint: Pad U1-6(23.85mm,36.935mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad U1-7(23.85mm,35.665mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad U2-2(35.7mm,40.5mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad U2-2(35.7mm,46.9mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad U2-3(38mm,40.5mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Between Pad U3-2(55.7mm,10.575mm) on Top Layer And Via (55.7mm,9.409mm) from Top Layer to Bottom Layer Actual Distance = 1.166mm
+   Violation between SMD To Plane Constraint: Between Pad U3-5(55.7mm,8.225mm) on Top Layer And Via (55.7mm,7.2mm) from Top Layer to POWER Actual Distance = 1.025mm
+   Violation between SMD To Plane Constraint: Pad U4-4(44.55mm,25.195mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad U4-8(50.05mm,29.005mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad U5-23(55.75mm,37.15mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad U5-24(56.25mm,37.15mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad U5-35(57.75mm,43.65mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad U5-36(57.75mm,44.15mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad U5-47(51.25mm,45.65mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad U5-48(50.75mm,45.65mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad U5-8(49.25mm,40.65mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Between Pad U5-9(49.25mm,40.15mm) on Top Layer And Via (47.7mm,38.35mm) from Top Layer to Bottom Layer Actual Distance = 2.127mm
+   Violation between SMD To Plane Constraint: Pad U6-1(8.535mm,8.618mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad U6-15(26.045mm,11.403mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad U6-2(9.805mm,8.618mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad U6-38(8.535mm,25.618mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Between Pad U6-39(14.2mm,14.283mm) on Top Layer And Pad U6-39(15.117mm,14.283mm) on Multi-Layer Actual Distance = 0.917mm
+   Violation between SMD To Plane Constraint: Between Pad U6-39(14.2mm,15.2mm) on Multi-Layer And Pad U6-39(14.2mm,16.118mm) on Top Layer Actual Distance = 0.917mm
+   Violation between SMD To Plane Constraint: Between Pad U6-39(14.2mm,17.953mm) on Top Layer And Pad U6-39(15.117mm,17.953mm) on Multi-Layer Actual Distance = 0.917mm
+   Violation between SMD To Plane Constraint: Between Pad U6-39(16.035mm,14.283mm) on Top Layer And Pad U6-39(16.952mm,14.283mm) on Multi-Layer Actual Distance = 0.917mm
+   Violation between SMD To Plane Constraint: Between Pad U6-39(16.035mm,16.118mm) on Top Layer And Pad U6-39(16.952mm,16.118mm) on Multi-Layer Actual Distance = 0.917mm
+   Violation between SMD To Plane Constraint: Between Pad U6-39(16.035mm,17.035mm) on Multi-Layer And Pad U6-39(16.035mm,17.953mm) on Top Layer Actual Distance = 0.917mm
+   Violation between SMD To Plane Constraint: Between Pad U6-39(17.87mm,14.283mm) on Top Layer And Pad U6-39(17.87mm,15.2mm) on Multi-Layer Actual Distance = 0.918mm
+   Violation between SMD To Plane Constraint: Between Pad U6-39(17.87mm,16.118mm) on Top Layer And Pad U6-39(17.87mm,17.035mm) on Multi-Layer Actual Distance = 0.918mm
+   Violation between SMD To Plane Constraint: Between Pad U6-39(17.87mm,17.035mm) on Multi-Layer And Pad U6-39(17.87mm,17.953mm) on Top Layer Actual Distance = 0.917mm
+   Violation between SMD To Plane Constraint: Pad U7-4(56.95mm,24.295mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad U7-8(62.45mm,28.105mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad USB1-5(54.1mm,4.9mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad X1-2(46.486mm,42.43mm) on Top Layer Actual Distance = 2539.975mm
+   Violation between SMD To Plane Constraint: Pad X1-4(42.314mm,41.37mm) on Top Layer Actual Distance = 2539.975mm
+Rule Violations :103
+
+Processing Rule : SMD Entry (Side = Allowed) (Corner = Allowed) (Any Angle = Not Allowed) (Ignore First Corner = Allowed)
+   Violation between SMD Entry Constraint: Between Pad C16-2(41.9mm,38.8mm) on Top Layer And Track (42.079mm,38.979mm)(43.035mm,38.979mm) on Top Layer Track Entry to PAD from not centre of Side
+   Violation between SMD Entry Constraint: Between Pad C27-2(59.25mm,44.2mm) on Top Layer And Track (57.75mm,44.15mm)(59.2mm,44.15mm) on Top Layer Track Entry to PAD from not centre of Side
+   Violation between SMD Entry Constraint: Between Pad C31-2(66.5mm,28.15mm) on Top Layer And Track (62.45mm,28.105mm)(66.455mm,28.105mm) on Top Layer Track Entry to PAD from not centre of Side
+   Violation between SMD Entry Constraint: Between Pad C43-2(88mm,13.4mm) on Bottom Layer And Track (87.8mm,13.6mm)(87.8mm,15.939mm) on Bottom Layer Track Entry to PAD from not centre of Side
+   Violation between SMD Entry Constraint: Between Pad C5-2(63.1mm,5.35mm) on Top Layer And Track (61.05mm,5.3mm)(63.2mm,5.3mm) on Top Layer Track Entry to PAD from not centre of Side
+   Violation between SMD Entry Constraint: Between Pad D3-2(58.2mm,7.5mm) on Top Layer And Track (58.1mm,6.579mm)(58.1mm,7.6mm) on Top Layer Track Entry to PAD from not centre of Side
+   Violation between SMD Entry Constraint: Between Pad D6-1(79.55mm,16.5mm) on Bottom Layer And Track (79.709mm,16.162mm)(81.214mm,16.162mm) on Bottom Layer Track Entry to PAD from not centre of Side
+   Violation between SMD Entry Constraint: Between Pad D7-1(85.95mm,18.9mm) on Top Layer And Track (85.888mm,18.733mm)(88.567mm,18.733mm) on Top Layer Track Entry to PAD from not centre of Side
+   Violation between SMD Entry Constraint: Between Pad D7-2(84.05mm,18.9mm) on Top Layer And Track (83.988mm,17.759mm)(83.988mm,18.733mm) on Top Layer Track Entry to PAD from not centre of Side
+   Violation between SMD Entry Constraint: Between Pad Q4-1(13.89mm,31.65mm) on Top Layer And Track (14.036mm,31.796mm)(14.667mm,31.796mm) on Top Layer Track Entry to PAD from not centre of Side
+   Violation between SMD Entry Constraint: Between Pad R11-2(45mm,35mm) on Top Layer And Track (44.95mm,35.05mm)(44.95mm,37mm) on Top Layer Track Entry to PAD from not centre of Side
+   Violation between SMD Entry Constraint: Between Pad R14-1(54mm,25.1mm) on Top Layer And Track (50.05mm,25.195mm)(53.905mm,25.195mm) on Top Layer Track Entry to PAD from not centre of Side
+   Violation between SMD Entry Constraint: Between Pad R15-1(54mm,26.5mm) on Top Layer And Track (54.1mm,26.6mm)(55.646mm,26.6mm) on Top Layer Track Entry to PAD from not centre of Side
+   Violation between SMD Entry Constraint: Between Pad R22-1(15.4mm,33.4mm) on Top Layer And Track (15.667mm,33.667mm)(15.667mm,37.873mm) on Top Layer Track Entry to PAD from not centre of Side
+   Violation between SMD Entry Constraint: Between Pad R23-1(88.5mm,21.2mm) on Bottom Layer And Track (86.534mm,21.242mm)(88.458mm,21.242mm) on Bottom Layer Track Entry to PAD from not centre of Side
+   Violation between SMD Entry Constraint: Between Pad R25-2(91.3mm,21.1mm) on Bottom Layer And Track (89.9mm,21.2mm)(91.2mm,21.2mm) on Bottom Layer Track Entry to PAD from not centre of Side
+   Violation between SMD Entry Constraint: Between Pad R32-2(85.7mm,17mm) on Top Layer And Track (84.735mm,16.238mm)(85.294mm,16.797mm) on Top Layer Track Entry to PAD from not centre of Side
+   Violation between SMD Entry Constraint: Between Pad R33-2(80.5mm,7.5mm) on Bottom Layer And Track (78.877mm,7.647mm)(80.353mm,7.647mm) on Bottom Layer Track Entry to PAD from not centre of Side
+   Violation between SMD Entry Constraint: Between Pad R34-2(81.7mm,4.4mm) on Bottom Layer And Track (80.55mm,4.2mm)(81.5mm,4.2mm) on Bottom Layer Track Entry to PAD from not centre of Side
+   Violation between SMD Entry Constraint: Between Pad R35-1(81.737mm,5.891mm) on Bottom Layer And Track (80.5mm,5.9mm)(81.728mm,5.9mm) on Bottom Layer Track Entry to PAD from not centre of Side
+   Violation between SMD Entry Constraint: Between Pad R35-1(81.737mm,5.891mm) on Bottom Layer And Track (81.7mm,4.4mm)(81.7mm,5.854mm) on Bottom Layer Track Entry to PAD from not centre of Side
+   Violation between SMD Entry Constraint: Between Pad R36-2(83.2mm,5.7mm) on Bottom Layer And Track (83.15mm,5.75mm)(83.15mm,7.4mm) on Bottom Layer Track Entry to PAD from not centre of Side
+   Violation between SMD Entry Constraint: Between Pad R37-2(85.739mm,11.133mm) on Top Layer And Track (85.883mm,11.278mm)(85.883mm,12.583mm) on Top Layer Track Entry to PAD from not centre of Side
+   Violation between SMD Entry Constraint: Between Pad R5-1(57.2mm,64.9mm) on Top Layer And Track (57.4mm,65.1mm)(59.9mm,65.1mm) on Top Layer Track Entry to PAD from not centre of Side
+   Violation between SMD Entry Constraint: Between Pad SW1-1(21.95mm,3.95mm) on Top Layer And Track (19.1mm,4.3mm)(21.74mm,4.3mm) on Top Layer Track Entry to PAD from not centre of Side
+   Violation between SMD Entry Constraint: Between Pad U4-6(50.05mm,26.465mm) on Top Layer And Track (50.085mm,26.5mm)(54mm,26.5mm) on Top Layer Track Entry to PAD from not centre of Side
+   Violation between SMD Entry Constraint: Between Pad U5-9(49.25mm,40.15mm) on Top Layer And Track (48.546mm,40.127mm)(49.227mm,40.127mm) on Top Layer Track Entry to PAD from not centre of Side
+   Violation between SMD Entry Constraint: Between Pad U7-2(56.95mm,26.835mm) on Top Layer And Track (55.416mm,27.721mm)(56.302mm,26.835mm) on Top Layer Track Entry to PAD from not centre of Side
+   Violation between SMD Entry Constraint: Between Pad U9-4(85.8mm,4.55mm) on Bottom Layer And Track (85.44mm,4.179mm)(85.44mm,4.441mm) on Bottom Layer Track Entry to PAD from not centre of Side
+Rule Violations :29
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.381mm) (Conductor Width=0.381mm) (Air Gap=0.254mm) (Entries=4) (All)
+   Violation between Starved Thermal on GROUND: Pad J3-2(69.8mm,10.8mm) on Multi-Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on POWER: Via (21.3mm,35mm) from Top Layer to Bottom Layer. Only 49% copper is connected to the hole.
+Rule Violations :2
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+   Violation between Hole Size Constraint: (3mm > 2.54mm) Pad J5-2(40.5mm,7.9mm) on Multi-Layer Actual Slot Hole Width = 3mm
+   Violation between Hole Size Constraint: (3mm > 2.54mm) Pad J5-3(45.3mm,11.1mm) on Multi-Layer Actual Slot Hole Width = 3mm
+   Violation between Hole Size Constraint: (3mm > 2.54mm) Pad J6-2(7.9mm,48mm) on Multi-Layer Actual Slot Hole Width = 3mm
+   Violation between Hole Size Constraint: (3mm > 2.54mm) Pad J6-3(11.1mm,43.2mm) on Multi-Layer Actual Slot Hole Width = 3mm
+Rule Violations :4
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+   Violation between Hole To Hole Clearance Constraint: (Collision < 0.254mm) Between Via (14.8mm,35.8mm) from POWER to Bottom Layer And Via (14.8mm,35.8mm) from Top Layer to Bottom Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 0.254mm) Between Via (51.825mm,21.875mm) from POWER to Bottom Layer And Via (51.825mm,21.875mm) from Top Layer to Bottom Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 0.254mm) Between Via (51.8mm,47.2mm) from POWER to Bottom Layer And Via (51.8mm,47.2mm) from Top Layer to Bottom Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 0.254mm) Between Via (53.5mm,15.8mm) from Top Layer to Bottom Layer And Via (53.5mm,15.8mm) from Top Layer to POWER Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 0.254mm) Between Via (53.5mm,16.554mm) from Top Layer to Bottom Layer And Via (53.5mm,16.554mm) from Top Layer to POWER Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 0.254mm) Between Via (55.7mm,7.2mm) from Top Layer to Bottom Layer And Via (55.7mm,7.2mm) from Top Layer to POWER Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 0.254mm) Between Via (55.7mm,9.409mm) from Top Layer to Bottom Layer And Via (55.7mm,9.409mm) from Top Layer to POWER Pad/Via Touching Holes
+Rule Violations :7
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.127mm) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (0.045mm < 0.127mm) Between Pad C19-2(50.3mm,29.75mm) on Top Layer And Pad U4-8(50.05mm,29.005mm) on Top Layer [Top Solder] Mask Sliver [0.045mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.045mm < 0.127mm) Between Pad C20-2(48.6mm,29.75mm) on Top Layer And Pad U4-8(50.05mm,29.005mm) on Top Layer [Top Solder] Mask Sliver [0.045mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.041mm < 0.127mm) Between Pad C20-2(48.6mm,29.75mm) on Top Layer And Via (47.6mm,29.1mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.041mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad U5-1(49.25mm,44.15mm) on Top Layer And Pad U5-2(49.25mm,43.65mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad U5-10(49.25mm,39.65mm) on Top Layer And Pad U5-11(49.25mm,39.15mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad U5-10(49.25mm,39.65mm) on Top Layer And Pad U5-9(49.25mm,40.15mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad U5-11(49.25mm,39.15mm) on Top Layer And Pad U5-12(49.25mm,38.65mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad U5-13(50.75mm,37.15mm) on Top Layer And Pad U5-14(51.25mm,37.15mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad U5-14(51.25mm,37.15mm) on Top Layer And Pad U5-15(51.75mm,37.15mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad U5-15(51.75mm,37.15mm) on Top Layer And Pad U5-16(52.25mm,37.15mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad U5-16(52.25mm,37.15mm) on Top Layer And Pad U5-17(52.75mm,37.15mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad U5-17(52.75mm,37.15mm) on Top Layer And Pad U5-18(53.25mm,37.15mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad U5-18(53.25mm,37.15mm) on Top Layer And Pad U5-19(53.75mm,37.15mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad U5-19(53.75mm,37.15mm) on Top Layer And Pad U5-20(54.25mm,37.15mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad U5-2(49.25mm,43.65mm) on Top Layer And Pad U5-3(49.25mm,43.15mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad U5-20(54.25mm,37.15mm) on Top Layer And Pad U5-21(54.75mm,37.15mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad U5-21(54.75mm,37.15mm) on Top Layer And Pad U5-22(55.25mm,37.15mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad U5-22(55.25mm,37.15mm) on Top Layer And Pad U5-23(55.75mm,37.15mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad U5-23(55.75mm,37.15mm) on Top Layer And Pad U5-24(56.25mm,37.15mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad U5-25(57.75mm,38.65mm) on Top Layer And Pad U5-26(57.75mm,39.15mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad U5-26(57.75mm,39.15mm) on Top Layer And Pad U5-27(57.75mm,39.65mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad U5-27(57.75mm,39.65mm) on Top Layer And Pad U5-28(57.75mm,40.15mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad U5-28(57.75mm,40.15mm) on Top Layer And Pad U5-29(57.75mm,40.65mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad U5-29(57.75mm,40.65mm) on Top Layer And Pad U5-30(57.75mm,41.15mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad U5-3(49.25mm,43.15mm) on Top Layer And Pad U5-4(49.25mm,42.65mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad U5-30(57.75mm,41.15mm) on Top Layer And Pad U5-31(57.75mm,41.65mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad U5-31(57.75mm,41.65mm) on Top Layer And Pad U5-32(57.75mm,42.15mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad U5-32(57.75mm,42.15mm) on Top Layer And Pad U5-33(57.75mm,42.65mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad U5-33(57.75mm,42.65mm) on Top Layer And Pad U5-34(57.75mm,43.15mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad U5-34(57.75mm,43.15mm) on Top Layer And Pad U5-35(57.75mm,43.65mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad U5-35(57.75mm,43.65mm) on Top Layer And Pad U5-36(57.75mm,44.15mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad U5-37(56.25mm,45.65mm) on Top Layer And Pad U5-38(55.75mm,45.65mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad U5-38(55.75mm,45.65mm) on Top Layer And Pad U5-39(55.25mm,45.65mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad U5-39(55.25mm,45.65mm) on Top Layer And Pad U5-40(54.75mm,45.65mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad U5-4(49.25mm,42.65mm) on Top Layer And Pad U5-5(49.25mm,42.15mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad U5-40(54.75mm,45.65mm) on Top Layer And Pad U5-41(54.25mm,45.65mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad U5-41(54.25mm,45.65mm) on Top Layer And Pad U5-42(53.75mm,45.65mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad U5-42(53.75mm,45.65mm) on Top Layer And Pad U5-43(53.25mm,45.65mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad U5-43(53.25mm,45.65mm) on Top Layer And Pad U5-44(52.75mm,45.65mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad U5-44(52.75mm,45.65mm) on Top Layer And Pad U5-45(52.25mm,45.65mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad U5-45(52.25mm,45.65mm) on Top Layer And Pad U5-46(51.75mm,45.65mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad U5-46(51.75mm,45.65mm) on Top Layer And Pad U5-47(51.25mm,45.65mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad U5-47(51.25mm,45.65mm) on Top Layer And Pad U5-48(50.75mm,45.65mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad U5-5(49.25mm,42.15mm) on Top Layer And Pad U5-6(49.25mm,41.65mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad U5-6(49.25mm,41.65mm) on Top Layer And Pad U5-7(49.25mm,41.15mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad U5-7(49.25mm,41.15mm) on Top Layer And Pad U5-8(49.25mm,40.65mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad U5-8(49.25mm,40.65mm) on Top Layer And Pad U5-9(49.25mm,40.15mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.003mm < 0.127mm) Between Pad U6-39(14.2mm,14.283mm) on Top Layer And Pad U6-39(14.2mm,15.2mm) on Multi-Layer [Top Solder] Mask Sliver [0.003mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.002mm < 0.127mm) Between Pad U6-39(14.2mm,14.283mm) on Top Layer And Pad U6-39(15.117mm,14.283mm) on Multi-Layer [Top Solder] Mask Sliver [0.002mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.002mm < 0.127mm) Between Pad U6-39(14.2mm,15.2mm) on Multi-Layer And Pad U6-39(14.2mm,16.118mm) on Top Layer [Top Solder] Mask Sliver [0.002mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.003mm < 0.127mm) Between Pad U6-39(14.2mm,16.118mm) on Top Layer And Pad U6-39(14.2mm,17.035mm) on Multi-Layer [Top Solder] Mask Sliver [0.003mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.002mm < 0.127mm) Between Pad U6-39(14.2mm,16.118mm) on Top Layer And Pad U6-39(15.117mm,16.118mm) on Multi-Layer [Top Solder] Mask Sliver [0.002mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.002mm < 0.127mm) Between Pad U6-39(14.2mm,17.035mm) on Multi-Layer And Pad U6-39(14.2mm,17.953mm) on Top Layer [Top Solder] Mask Sliver [0.002mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.002mm < 0.127mm) Between Pad U6-39(14.2mm,17.953mm) on Top Layer And Pad U6-39(15.117mm,17.953mm) on Multi-Layer [Top Solder] Mask Sliver [0.002mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.003mm < 0.127mm) Between Pad U6-39(15.117mm,14.283mm) on Multi-Layer And Pad U6-39(16.035mm,14.283mm) on Top Layer [Top Solder] Mask Sliver [0.003mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.003mm < 0.127mm) Between Pad U6-39(15.117mm,16.118mm) on Multi-Layer And Pad U6-39(16.035mm,16.118mm) on Top Layer [Top Solder] Mask Sliver [0.003mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.003mm < 0.127mm) Between Pad U6-39(15.117mm,17.953mm) on Multi-Layer And Pad U6-39(16.035mm,17.953mm) on Top Layer [Top Solder] Mask Sliver [0.003mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.003mm < 0.127mm) Between Pad U6-39(16.035mm,14.283mm) on Top Layer And Pad U6-39(16.035mm,15.2mm) on Multi-Layer [Top Solder] Mask Sliver [0.003mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.002mm < 0.127mm) Between Pad U6-39(16.035mm,14.283mm) on Top Layer And Pad U6-39(16.952mm,14.283mm) on Multi-Layer [Top Solder] Mask Sliver [0.002mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.002mm < 0.127mm) Between Pad U6-39(16.035mm,15.2mm) on Multi-Layer And Pad U6-39(16.035mm,16.118mm) on Top Layer [Top Solder] Mask Sliver [0.002mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.003mm < 0.127mm) Between Pad U6-39(16.035mm,16.118mm) on Top Layer And Pad U6-39(16.035mm,17.035mm) on Multi-Layer [Top Solder] Mask Sliver [0.003mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.002mm < 0.127mm) Between Pad U6-39(16.035mm,16.118mm) on Top Layer And Pad U6-39(16.952mm,16.118mm) on Multi-Layer [Top Solder] Mask Sliver [0.002mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.002mm < 0.127mm) Between Pad U6-39(16.035mm,17.035mm) on Multi-Layer And Pad U6-39(16.035mm,17.953mm) on Top Layer [Top Solder] Mask Sliver [0.002mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.002mm < 0.127mm) Between Pad U6-39(16.035mm,17.953mm) on Top Layer And Pad U6-39(16.952mm,17.953mm) on Multi-Layer [Top Solder] Mask Sliver [0.002mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.003mm < 0.127mm) Between Pad U6-39(16.952mm,14.283mm) on Multi-Layer And Pad U6-39(17.87mm,14.283mm) on Top Layer [Top Solder] Mask Sliver [0.003mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.003mm < 0.127mm) Between Pad U6-39(16.952mm,16.118mm) on Multi-Layer And Pad U6-39(17.87mm,16.118mm) on Top Layer [Top Solder] Mask Sliver [0.003mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.003mm < 0.127mm) Between Pad U6-39(16.952mm,17.953mm) on Multi-Layer And Pad U6-39(17.87mm,17.953mm) on Top Layer [Top Solder] Mask Sliver [0.003mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.003mm < 0.127mm) Between Pad U6-39(17.87mm,14.283mm) on Top Layer And Pad U6-39(17.87mm,15.2mm) on Multi-Layer [Top Solder] Mask Sliver [0.003mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.002mm < 0.127mm) Between Pad U6-39(17.87mm,15.2mm) on Multi-Layer And Pad U6-39(17.87mm,16.118mm) on Top Layer [Top Solder] Mask Sliver [0.002mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.003mm < 0.127mm) Between Pad U6-39(17.87mm,16.118mm) on Top Layer And Pad U6-39(17.87mm,17.035mm) on Multi-Layer [Top Solder] Mask Sliver [0.003mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.002mm < 0.127mm) Between Pad U6-39(17.87mm,17.035mm) on Multi-Layer And Pad U6-39(17.87mm,17.953mm) on Top Layer [Top Solder] Mask Sliver [0.002mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Via (30.8mm,29.7mm) from Top Layer to Bottom Layer And Via (30.8mm,30.5mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.1mm] / [Bottom Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.07mm < 0.127mm) Between Via (48.65mm,37.228mm) from Top Layer to Bottom Layer And Via (48.9mm,36.5mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.07mm] / [Bottom Solder] Mask Sliver [0.07mm]
+Rule Violations :73
+
+Processing Rule : Silk To Solder Mask (Clearance=0.127mm) (Disabled)(IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mm) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 319
+Waived Violations : 0
+Time Elapsed        : 00:00:03
